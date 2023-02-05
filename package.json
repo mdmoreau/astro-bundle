@@ -2,6 +2,7 @@
   "name": "astro-bundle",
   "version": "0.1.0",
   "type": "module",
+  "main": "index.js",
   "license": "MIT",
   "homepage": "https://github.com/mdmoreau/astro-bundle",
   "dependencies": {
