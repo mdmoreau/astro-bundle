@@ -1,0 +1,11 @@
+{
+  "name": "astro-bundle",
+  "version": "0.0.0",
+  "type": "module",
+  "license": "MIT",
+  "homepage": "https://github.com/mdmoreau/astro-bundle",
+  "dependencies": {
+    "esbuild": "^0.17.5",
+    "glob": "^8.1.0"
+  }
+}
